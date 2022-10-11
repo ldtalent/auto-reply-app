@@ -1,4 +1,4 @@
-package auto-reply-app;
+package autoreply.app;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
