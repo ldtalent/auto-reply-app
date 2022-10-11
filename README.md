@@ -8,6 +8,7 @@ Create a new project named Auto-reply-app in android studio and name the package
 .Open the project.
 
 .Run on android phone or android emulator
+.Follow this post for detailed set up of the project https://blog.ldtalentwork.com/wp-admin/post.php?post=10780
 
 Comments are made in the code, and you can understand the article well. After learning, you can master the following knowledge points:
 
