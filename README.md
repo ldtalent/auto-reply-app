@@ -1,14 +1,15 @@
 # auto-reply-app
 How to setup and run the application
-.Clone the repo on your local machine
+
+Clone the repo on your local machine
 Create a new project named Auto-reply-app in android studio and name the package as Autoreply.app
 
-.Copy the project files into your android studio project directory in relevant file destinations 
+Copy the project files into your android studio project directory in relevant file destinations 
 
-.Open the project.
+Open the project.
 
-.Run on android phone or android emulator
-.Follow this post for detailed set up of the project https://blog.ldtalentwork.com/wp-admin/post.php?post=10780
+Run on android phone or android emulator
+Follow this post for detailed set up of the project https://blog.ldtalentwork.com/wp-admin/post.php?post=10780
 
 Comments are made in the code, and you can understand the article well. After learning, you can master the following knowledge points:
 
