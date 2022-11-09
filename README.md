@@ -9,7 +9,7 @@ Copy the project files into your android studio project directory in relevant fi
 Open the project.
 
 Run on android phone or android emulator
-Follow this post for detailed set up of the project https://blog.ldtalentwork.com/wp-admin/post.php?post=10780
+Follow this post for detailed set up of the project https://blog.ldtalentwork.com/2022/10/10/auto-reply-message/
 
 Comments are made in the code, and you can understand the article well. After learning, you can master the following knowledge points:
 
